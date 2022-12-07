@@ -1,5 +1,6 @@
 # MNIST-database-TrainingModels
 The MNIST (Modified National Institute of Standards and Technology) is a set of 70,000 small image digits handwritten. It is used for training models to recognize handwritten, face recognition and medical diagnosis. 
+I choose this dataset because it is easy to understand and implement for Random Forest and Support Vector Machine (SVM’s). It is not necessary any preparation the data before using the learning methods. 
 
 # Random Forest Results & Discussion
 The labels range from 0 to 9, which are the images that we have in this experiment. The training data set will be 60 K, and the number of estimators will be 20 decision trees. The frequency of each class is shown in the picture below.
