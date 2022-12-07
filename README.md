@@ -4,7 +4,7 @@ The MNIST (Modified National Institute of Standards and Technology) is a set of 
 # Conclusion
 Random Forests work well for a large range of data than the decision trees overcoming the problem of overfitting or combining the different results of decision trees. Also, they are flexible and possess a high level of accuracy. Moreover, Random Forests have good accuracy even some data is missing. However, they are much harder time consuming than decision trees, making them slow and requiring more computational resources. Beyond this, Random Forest do not work very well with data complexity.
 
-Regards to Support Vector Machine (SVM) works well with high-dimensional space, and it is also memory effective. The most disadvantage is the data needs to be standardized in the preparation stage and overfitting is more occasional to happen.
+Regards to Support Vector Machine (SVM) works well with high-dimensional space, and it is also memory effective. The most significant disadvantage is that the data needs to be standardized in preparation stage, and overfitting occasionally happens. 
 
 
 
